@@ -3,3 +3,11 @@
   flex-direction: column;
   margin: 20px 0 16px;
 }
+
+.footer__column-links li {
+  margin: 0 0 10px;
+}
+
+.footer__column-links li:last-of-type {
+  margin: 0;
+}
