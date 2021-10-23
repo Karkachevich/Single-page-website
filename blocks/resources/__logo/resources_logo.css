@@ -2,8 +2,11 @@
   width: 270px;
   height: 38px;
   text-align: center;
+  transition: .3s linear ;
 }
 
 .resources__logo:hover {
- filter: brightness(.5);
+  filter: brightness(.6);
+  transform: scale(1.2);
 }
+

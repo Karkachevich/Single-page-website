@@ -4,8 +4,9 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  transition: linear .3s;
 }
 
 .khan__buy-link:hover {
-  filter: brightness(.5);
+  transform: scale(1.1);
 }

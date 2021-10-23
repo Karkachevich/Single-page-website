@@ -4,6 +4,7 @@
   text-decoration: none;
   color: white;
   margin-bottom: 10px;
+  transition: .5s linear;
 }
 
 .footer__column-link:last-of-type {
